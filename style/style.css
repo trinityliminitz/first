@@ -1,0 +1,58 @@
+@media (max-width: 1440px){
+    body {
+        background-color: rgb(9, 11, 26);
+        font-size: 15px;
+        margin: 0;
+    }
+
+    .side {
+        margin: auto;
+        width: 50%;
+    }
+
+
+    .left {
+        background-color: hsl(244, 38%, 16%);
+        padding: 40px;
+    }
+
+    .right {
+        float: right;
+    }
+
+    .card {
+        margin: 100px auto;
+    }
+
+    .accent {
+        color: hsl(277, 64%, 61%);
+    }
+
+    h1 {
+        color: white;
+        font-family: 'Inter', sans-serif;
+    }
+
+    p {
+        color: hsla(0, 0%, 100%, 0.75);
+        font-family: 'Lexend Deca', sans-serif;
+        display: inline;
+    }
+
+    h2 {
+        color: white;
+        font-family: 'Inter', sans-serif;
+        display: inline;
+    }
+
+    .poin {
+        display: inline-block;
+        margin: 50px 20px 0 0;
+    }
+
+    .pict {
+        height: 345px;
+        margin-left: 20px;
+        width: 370px;
+    }
+}
